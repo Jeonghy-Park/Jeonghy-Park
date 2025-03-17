@@ -1,16 +1,18 @@
-## Hi there 👋
+## 박정현, JeongHyeon Park
+> 열정현이라고 불릴 만큼 열정 넘치는 박정현입니다.
 
-<!--
-**Jeonghy-Park/Jeonghy-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CERTIFICATES
+- 2025.02 데이터분석 준전문가(ADsP)
+- 2021.12 DELF A2
+- 2021.06 DELF A1
 
-Here are some ideas to get you started:
+### AWARDS
+- 2021.12 제2회 서대문구 SNS 콘텐츠 공모전 장려상
+- 2021.11 한국카지노업관광협회 "코로나19로 인한 한국 카지노 산업의 회복 및 재도약을 위한 2021년 전국 대학생 카지노 관광산업 뉴노멀 아이디어 공모전" 금상
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ACTIVITY
+- 2022.03 ~ 2022.12 경기대학교 호텔경영학과 제34대 학생회 홍보팀장
+- 2022.03 ~ 2022.12 경기대학교 교내 중앙동아리 '가온누리' 콘텐츠제작팀장
+- 2021.05 ~ 2021.12 에어리퀴드와 함께하는 ALtogether 멘토링 2기(우수)
+- 2021.07 ~ 2021.08 프루젤 서포터즈, 프루크루 1기
+- 2021.05 ~ 2021.06 제36회 서울국제관광박람회 서포터즈 최우수
