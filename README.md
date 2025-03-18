@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/aefe0ab6-f8b9-48b1-8b00-905c0a48fa0b)
+
 ## 박정현, JeongHyeon Park
 > 열정현이라고 불릴 만큼 열정 넘치는 박정현입니다.
 
